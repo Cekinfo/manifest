@@ -1,0 +1,38 @@
+{
+  "name": "CekInfo",
+  "short_name": "CekInfo",
+  "start_url": "https://www.cekinfo.me/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Blog yang ditampilkan hanya text saja, tetapi di postingan bisa ditambah image dan video Youtube.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-W8qzwdumfK4/XtT2E4jb98I/AAAAAAAAAvY/_127eBNlyk89wufbTlGqesl7WE1paPCqACLcBGAsYHQ/s48/main%2Bjason.jpg",
+    "sizes": "48x48",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-W8qzwdumfK4/XtT2E4jb98I/AAAAAAAAAvY/_127eBNlyk89wufbTlGqesl7WE1paPCqACLcBGAsYHQ/s72/main%2Bjason.jpg",
+    "sizes": "72x72",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-W8qzwdumfK4/XtT2E4jb98I/AAAAAAAAAvY/_127eBNlyk89wufbTlGqesl7WE1paPCqACLcBGAsYHQ/s96/main%2Bjason.jpg",
+    "sizes": "96x96",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-W8qzwdumfK4/XtT2E4jb98I/AAAAAAAAAvY/_127eBNlyk89wufbTlGqesl7WE1paPCqACLcBGAsYHQ/s144/main%2Bjason.jpg",
+    "sizes": "144x144",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-W8qzwdumfK4/XtT2E4jb98I/AAAAAAAAAvY/_127eBNlyk89wufbTlGqesl7WE1paPCqACLcBGAsYHQ/s168/main%2Bjason.jpg",
+    "sizes": "168x168",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-W8qzwdumfK4/XtT2E4jb98I/AAAAAAAAAvY/_127eBNlyk89wufbTlGqesl7WE1paPCqACLcBGAsYHQ/s192/main%2Bjason.jpg",
+    "sizes": "192x192",
+    "type": "image/jpg"
+  }, {
+    "src": "https://1.bp.blogspot.com/-W8qzwdumfK4/XtT2E4jb98I/AAAAAAAAAvY/_127eBNlyk89wufbTlGqesl7WE1paPCqACLcBGAsYHQ/s512/main%2Bjason.jpg",
+    "sizes": "512x512",
+    "type": "image/jpg"
+  }]
+}
